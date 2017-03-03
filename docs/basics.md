@@ -1,4 +1,4 @@
-[Prev](hello.md) [Next](variables.mb)
+[Prev](hello.md) [Next](variables.md)
 
 # Funadamental Concepts: Rules, Targets and Dependencies
 
@@ -82,4 +82,4 @@ Note that if you type `make clean` (.o files deleted) and then `make` again, the
 source code will be recompiled, despite the presence of a valid executable.
 Make will ensure that the whole chain of dependencies is intact.
 
-[Prev](hello.md) [Next](variables.mb)
+[Prev](hello.md) [Next](variables.md)
