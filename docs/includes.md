@@ -1,5 +1,5 @@
-[Prev](conditional.md) [Next](recursive.md)
+[Prev](conditionals.md) [Next](recursive.md)
 
 # Including other Makefiles
 
-[Prev](conditional.md) [Next](recursive.md)
+[Prev](conditionals.md) [Next](recursive.md)
